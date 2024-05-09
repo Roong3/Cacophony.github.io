@@ -1,0 +1,7 @@
+videos/mov_main.mp4.psd filter=lfs diff=lfs merge=lfs -text
+.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+'*.mp4' !text !filter !merge !diff
+=======
+>>>>>>> 1547ea6de005465d92151ee03b82c51d9f5a2f04
